@@ -1,0 +1,12 @@
+# pack-refs with: peeled fully-peeled sorted 
+19034b716b51c2515e98a55182f350bbcc1fd9e2 refs/remotes/origin/main
+a23382b6ff5f52e530a3055d62d3c688d6d60219 refs/remotes/origin/renovate/all-minor-patch
+bca669dacc6d87b972436dd7423752787bbfe5a7 refs/remotes/origin/renovate/happy-dom-14.x
+8199ef345387bb3740b6d67a47966e92a8a2b409 refs/remotes/origin/renovate/major-emotion-monorepo
+a5c6d2e9c7d7ea5c30a24c08785e8420a88bf9f2 refs/remotes/origin/renovate/major-jest-monorepo
+7cb42b79beeab5125c58c77ed2ea9ec1f94a573a refs/remotes/origin/renovate/major-testing-library-monorepo
+b6484ea4860104d3eae3926540d7af6922ca9fce refs/remotes/origin/renovate/major-vitest-monorepo
+279fd2aaa5963b02f6692a32772d1fc7cd9244c1 refs/remotes/origin/typescript
+f58502aab6867ca29336ff7e8e66996f9b7e463e refs/remotes/origin/update-react
+2a2d4d52a76130ac787a193ac67e16010fdc85a5 refs/remotes/origin/update-react-ts
+b9215dae7059826a24ff7290fae77ad0fc42126b refs/remotes/origin/v1
